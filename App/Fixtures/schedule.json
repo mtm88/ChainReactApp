@@ -1,0 +1,214 @@
+{
+  "schedule": [
+    {
+      "type":"talk",
+      "speaker":"JASON LE ROUX",
+      "image":"jamon",
+      "title":"AFRICAN CARNIVAL TRAIN",
+      "description":"Get dressed up in traditional African fabrics, paint your faces and bring masks for a journey unlike any other through the African bush veld with legendary DJ Francis onboard as you speed past lions and elephants. The train stops in a secret bush location in the Vic Falls wildlife park for an unforgettable night under the stars with back to back DJ’S including Neverland founder DJ Jason LeRoux.",
+      "time":"12/29/2017 85:45 PM",
+      "duration":"180",
+      "speakerInfo": [
+        {
+          "name": "JASON LE ROUX",
+          "bio":"Neverland founder DJ Jason LeRoux",
+          "twitter":"djjasonleroux",
+          "github": "djjasonleroux",
+          "company":"Neverland"
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"BLACK COFFEE",
+      "image":"panel",
+      "title":"COMMUNITY PARTY",
+      "description":"Start your New Year's celebration early with an electric night of the best in live house, African, indie and electro-pop. What’s the best way to get warmed up? With a strong piping hot mix from Africa's biggest artist Black Coffee headlining the night with many more artists to be announced. The action doesn’t stop there, head down into town for a host of parties at popular local venues like Shoestrings.",
+      "time":"12/30/2017 5:00 PM",
+      "duration":"15",
+      "speakerInfo": [
+        
+        {
+          "name": "BLACK COFFEE",
+          "bio":"Catch Africa’s biggest artist live at the Vic Falls Carnival on the 30th of Dec! Considering his meteoric rise to fame, it would be easy to stereotype Black Coffee as just another black diamond, a BEE beat magnet out to mine the insatiable upwardly mobile urban house party market.But as he proved on his South African Music Award-winning album “Home Brewed”, this DJ and producer defies convention. Sidestepping Afro-house clichés and stage-managed highs in favour of restrained sophistication, Black Coffee's penchant is for true Afropolitan house: home-brewed but fresh and future-focused. Expect almost sculptural balance and beauty. You must have a 2 or 3 day ticket for entrance on 30 Dec. ",
+          "twitter":"realblackcoffee",
+          "github": "realblackcoffee",
+          "company":"Soulistic Music"
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"MICASA",
+      "image":"panel",
+      "title":"COMMUNITY PARTY",
+      "description":"Start your New Year's celebration early with an electric night of the best in live house, African, indie and electro-pop. What’s the best way to get warmed up? With a strong piping hot mix from Africa's biggest artist MICASA headlining the night with many more artists to be announced. The action doesn’t stop there, head down into town for a host of parties at popular local venues like Shoestrings.",
+      "time":"12/30/2017 5:00 PM",
+      "duration":"15",
+      "speakerInfo": [
+        
+        {
+          "name": "MICASA",
+          "bio":"Catch Africa’s biggest artist live at the Vic Falls Carnival on the 30th of Dec! Considering his meteoric rise to fame, it would be easy to stereotype MICASA as just another black diamond, a BEE beat magnet out to mine the insatiable upwardly mobile urban house party market.But as he proved on his South African Music Award-winning album “Home Brewed”, this DJ and producer defies convention. Sidestepping Afro-house clichés and stage-managed highs in favour of restrained sophistication, Black Coffee's penchant is for true Afropolitan house: home-brewed but fresh and future-focused. Expect almost sculptural balance and beauty. You must have a 2 or 3 day ticket for entrance on 30 Dec. ",
+          "twitter":"realblackcoffee",
+          "github": "realblackcoffee",
+          "company":"Soulistic Music"
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"THE KIFFNESS",
+      "image":"gant",
+      "title":"UNITY CONCERT",
+      "description":"Bring your own flags, paint your face in your home colours and represent your roots as we all come together to countdown to 2018. There's absolutely no better way to see in the New Year than in Vic Falls, One of the Seven Wonder's of the World with non-stop entertainment. Jam until the sun comes up with a host of amazing artists including Tresor, the music sensation from the heart of the Congo, the kings of energetic must-dance-to live performance The Kiffness, Zambian queen of dancehall Mampi, local Vic Falls Flying Bantu and many more. Ring in the countdown with thousands of adventure loving travellers from all over the world, fire breathers, traditional dancers and experience a once-in-a-lifetime New Year's!",
+      "time":"12/31/2017 18:50 AM",
+      "duration":"60",
+      "speakerInfo": [
+        {
+          "name": "THE KIFFNESS",
+          "bio":"The Kiffness is a live electronic act from Cape Town, South Africa. The project was founded by David Scott in 2011.",
+          "twitter":"thekiffness",
+          "github": "thekiffness",
+          "company":"The Kiffness"
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"AMMARA BROWN",
+      "image":"gant",
+      "title":"UNITY CONCERT",
+      "description":"Bring your own flags, paint your face in your home colours and represent your roots as we all come together to countdown to 2018. There's absolutely no better way to see in the New Year than in Vic Falls, One of the Seven Wonder's of the World with non-stop entertainment. Jam until the sun comes up with a host of amazing artists including Tresor, the music sensation from the heart of the Congo, the kings of energetic must-dance-to live performance Ammara Brown, The Kiffness, Zambian queen of dancehall Mampi, local Vic Falls Flying Bantu and many more. Ring in the countdown with thousands of adventure loving travellers from all over the world, fire breathers, traditional dancers and experience a once-in-a-lifetime New Year's!",
+      "time":"12/31/2017 18:50 AM",
+      "duration":"60",
+      "speakerInfo": [
+        {
+          "name": "AMMARA BROWN",
+          "bio":"The Kiffness is a live electronic act from Cape Town, South Africa. The project was founded by David Scott in 2011.",
+          "twitter":"thekiffness",
+          "github": "thekiffness",
+          "company":"The Kiffness"
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"TRESOR",
+      "image":"gant",
+      "title":"UNITY CONCERT",
+      "description":"Bring your own flags, paint your face in your home colours and represent your roots as we all come together to countdown to 2018. There's absolutely no better way to see in the New Year than in Vic Falls, One of the Seven Wonder's of the World with non-stop entertainment. Jam until the sun comes up with a host of amazing artists including Tresor, the music sensation from the heart of the Congo, the kings of energetic must-dance-to live performance The Kiffness, Zambian queen of dancehall Mampi, local Vic Falls Flying Bantu and many more. Ring in the countdown with thousands of adventure loving travellers from all over the world, fire breathers, traditional dancers and experience a once-in-a-lifetime New Year's!",
+      "time":"12/31/2017 18:50 AM",
+      "speakerInfo": [
+        {
+          "name": "TRESOR",
+          "bio":"TRESOR  is multi award winning and platinum selling 2015 breakout singer-songwriter & producer signed to the legendary record label Sony RCA in Africa and Ultra Records globally (Ultra records is home to Avicii, Calvin Harris,Deadmaus just to name a few). Trésor’s first language is Music but he is also fluent in English, French and Swahili. His songs reflect a peregrine of life shared by so many on the continent of Africa, but few are able to express their experiences in a way that captures the ear so universally and directly. Orphaned at an early age, he left Goma in the Eastern DRC after finishing high school and headed for Durban in 2007 with the sole purpose of pursuing a professional music career. It was a new world for a small town boy, having to learn English in a short space of time.",
+          "twitter":"tresor.official1",
+          "github": "tresor.official1",
+          "company":"Tresor"
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"Mampi",
+      "image":"mike",
+      "title":"UNITY CONCERT",
+      "description":"Bring your own flags, paint your face in your home colours and represent your roots as we all come together to countdown to 2018. There's absolutely no better way to see in the New Year than in Vic Falls, One of the Seven Wonder's of the World with non-stop entertainment. Jam until the sun comes up with a host of amazing artists including Tresor, the music sensation from the heart of the Congo, the kings of energetic must-dance-to live performance The Kiffness, Zambian queen of dancehall Mampi, local Vic Falls Flying Bantu and many more. Ring in the countdown with thousands of adventure loving travellers from all over the world, fire breathers, traditional dancers and experience a once-in-a-lifetime New Year's!",
+      "time":"12/31/2017 18:50 AM",
+      "speakerInfo": [
+        {
+          "name": "Mampi",
+          "bio":"MAMPI QUEEN DIVA, Lusaka.  Mampi Mirriam Mukape was born in Lusaka, Zambia. Mampi is a Zambian R&B singer. She also does some reggae ",
+          "twitter":"MampiOfficial",
+          "github": "mampiliciousme",
+          "company":"Callstack"
+        }
+      ]
+    },
+    {
+      "type":"talk",
+      "speaker":"FLYING BANTU",
+      "image":"brent",
+      "title":"UNITY CONCERT",
+      "description":"Bring your own flags, paint your face in your home colours and represent your roots as we all come together to countdown to 2018. There's absolutely no better way to see in the New Year than in Vic Falls, One of the Seven Wonder's of the World with non-stop entertainment. Jam until the sun comes up with a host of amazing artists including Tresor, the music sensation from the heart of the Congo, the kings of energetic must-dance-to live performance The Kiffness, Zambian queen of dancehall Mampi, local Vic Falls Flying Bantu and many more. Ring in the countdown with thousands of adventure loving travellers from all over the world, fire breathers, traditional dancers and experience a once-in-a-lifetime New Year's!",
+      "time":"12/31/2017 18:50 AM",
+      "duration":"30",
+      "speakerInfo": [
+        {
+          "name": "FLYING BANTU",
+          "twitter":"flyingbantu",
+          "github": "flyingbantubrentvatne",
+          "company":"FLYING BANTU",
+          "bio":"Flying Bantu is an afro-fusion band from Victoria Falls, Zimbabwe that merges a traditional Zimbabwean musical signature with elements of rock, reggae, jazz and funk. We are a lively and upbeat stage band with a warm message for you!"
+        }
+      ]
+    },
+    {
+      "type":"breakfast",
+      "title": "Shearwater Cafe",
+      "time":"12/29/2017 7:30 AM",
+      "duration":"75",
+      "options": ["Assorted Coco Donuts", "Whole Fruit", "Bowery Bagels with Whipped Herb Cream Cheese"],
+      "veganOptions": []
+    },
+    {
+      "type":"breakfast",
+      "title": "KFC VicFalls",
+      "time":"7/11/2017 7:30 AM",
+      "duration":"75",
+      "options": ["Potato Chips", "Wraps", "Burgers, Drinks and more"],
+      "veganOptions": []
+    },
+    {
+      "type":"coffee",
+      "time":"7/10/2017 10:00 AM",
+      "duration":"30",
+      "options": ["Spella Caffe Coffee, Hot Tea, and Water"],
+      "veganOptions": []
+    },
+    {
+      "type":"coffee",
+      "time":"7/11/2017 10:00 AM",
+      "duration":"30",
+      "options": ["Spella Caffe Coffee, Hot Tea, and Water"],
+      "veganOptions": []
+    },
+    {
+      "type":"lunch",
+      "time":"7/10/2017 12:00 PM",
+      "duration":"90",
+      "options": ["Chopped Radicchio Salad", "Moroccan Chicken Tagine", "Saffron Scented Rice", "Assorted Cookies"],
+      "veganOptions": ["Moroccan Vegetable Tagine"]
+    },
+    {
+      "type":"lunch",
+      "time":"7/11/2017 12:00 PM",
+      "duration":"90",
+      "options": ["Kale Caesar with Shaved Parmigiano & Grilled Crouton", "Steak Sandwiches with Arugula, Red Onion Chutney, and Horseradish Aioli", "Assorted Cookies and NW Potato Chips"],
+      "veganOptions": ["Massaged Kale with Shaved Spring Vegetables and Citrus-Herb Vinaigrette", "Smoked Portobello Wraps (GF)"]
+    },
+    {
+      "type":"coffee",
+      "time":"7/10/2017 3:00 PM",
+      "duration":"60",
+      "options": ["Rosemary Caramel Corn with Almonds and Fleur de Sel", "Roasted Nuts and Whole Fruit", "Spella Caffe Coffee, Hot Tea, and Water"],
+      "veganOptions": ["All beverage options", "Roasted Nuts and Whole Fruit"]
+    },
+    {
+      "type":"coffee",
+      "time":"7/11/2017 3:00 PM",
+      "duration":"60",
+      "options": ["Spella Caffe Coffee, Hot Tea, and Water", "Cheddar Medallions: Spicy Baked Cheddar Crackers", "Roasted Nuts and Whole Fruit"],
+      "veganOptions": ["All beverage options", "Roasted Nuts and Whole Fruit"]
+    },
+    {
+      "type":"party",
+      "title": "Monday Happy Hour",
+      "time":"7/10/2017 5:00 PM",
+      "duration":"150",
+      "options": ["Heater-Allen Pilsner (McMinnville, OR)", "2 Towns Cider (Corvallis, OR)", "2014 Brooks Amycas 5-varietal White Blend (OR)", "Rosé 2015 REAL, Freja Vineyard Pinot Noir Rosé (OR)", "2014 REAL, Freja Vineyard Pinot Noir (OR)", "Table Red and White by Devil's Food Catering", "Regular and Diet Coca-Cola", "7*Up", "Ginger Ale", "San Pellegrino Limonata and Sparkling Water"],
+      "veganOptions": []
+    }
+  ]
+}

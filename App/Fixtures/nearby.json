@@ -1,0 +1,93 @@
+{
+  "Stay": [
+    {
+      "name": "Cresta SprayView",
+      "image": "deschutesBrewery",
+      "address": "Find It On Tsoka",
+      "link": "https://tsoka.life/results.php?id=4?placename=Victoria%20Falls?country=Zimbabwe"
+    },
+    {
+      "name": "VicFalls Backpackers",
+      "image": "littleBigBurger",
+      "address": "Find It On Tsoka",
+      "link": "https://tsoka.life/results.php?id=4?placename=Victoria%20Falls?country=Zimbabwe"
+    },
+    {
+      "name": "Gerti's Lodge",
+      "image": "tastyNAlder",
+      "address": "Find It On Tsoka",
+      "link": "https://tsoka.life/results.php?id=4?placename=Victoria%20Falls?country=Zimbabwe"
+    },
+    {
+      "name": "Shoe Strings",
+      "image": "fatHeadBrewery",
+      "address": "Find It On Tsoka",
+      "link": "https://tsoka.life/results.php?id=4?placename=Victoria%20Falls?country=Zimbabwe"
+    },
+    {
+      "name": "Pamusha",
+      "image": "voodoo",
+      "address": "Find It On Tsoka",
+      "link": "https://tsoka.life/results.php?id=4?placename=Victoria%20Falls?country=Zimbabwe"
+    },
+    {
+      "name": "VicFalls Safari Lodge",
+      "image": "salt",
+      "address": "Find It On Tsoka",
+      "link": "https://tsoka.life/results.php?id=4?placename=Victoria%20Falls?country=Zimbabwe"
+    }
+  ],
+  "To Do": [
+    {
+      "name": "Game Drive",
+      "image": "stumptown",
+      "address": "Wild Horizon",
+      "link": "https://tsoka.life/results.php?id=4?placename=Victoria%20Falls?country=Zimbabwe"
+    },
+    {
+      "name": "Zambezi River Cruise",
+      "image": "heartcoffee",
+      "address": "Wild Horizon",
+      "link": "https://tsoka.life/results.php?id=4?placename=Victoria%20Falls?country=Zimbabwe"
+    },
+    {
+      "name": "Gorge Swing",
+      "image": "barista",
+      "address": "Wild Horizon",
+      "link": "https://tsoka.life/results.php?id=4?placename=Victoria%20Falls?country=Zimbabwe"
+    },
+    {
+      "name": "Helicopter Rides",
+      "image": "courier",
+      "address": "Wild Horizon",
+      "link": "https://tsoka.life/results.php?id=4?placename=Victoria%20Falls?country=Zimbabwe"
+    }
+
+  ],
+  "Merch": [
+    {
+      "name": "Customized T-Shirts",
+      "image": "powells",
+      "address": "Buy using Fashionel App",
+      "link": "http://fashionel.net/"
+    },
+    {
+      "name": "Customised Bands",
+      "image": "omsi",
+      "address": "Buy using Fashionel App",
+      "link": "http://fashionel.net/"
+    },
+    {
+      "name": "Country Flags",
+      "image": "japanesegarden",
+      "address": "Buy using Fashionel App",
+      "link": "http://fashionel.net/"
+    },
+    {
+      "name": "Misc",
+      "image": "chinesegarden",
+      "address": "Buy using Fashionel App",
+      "link": "http://fashionel.net/"
+    }
+  ]
+}

@@ -21,7 +21,6 @@ const getCurrentTime = () => {
 
 export function * trackCurrentTime () {
   let time = yield getCurrentTime()
-  debugger;
   yield put(ScheduleActions.updateCurrentTime(time))
   while (true) {
     yield call(delay, updateDelay)

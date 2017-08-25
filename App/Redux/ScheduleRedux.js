@@ -73,5 +73,5 @@ export const reducer = createReducer(INITIAL_STATE, {
   [Types.UNLOCK_CURRENT_TIME]: unlockCurrentTime,
   [Types.SET_SELECTED_EVENT]: setSelectedEvent,
   [Types.CLEAR_SELECTED_EVENT]: clearSelectedEvent,
-  [Types.UPDATE_SCHEDULE]: updateSchedule
-})
+  [Types.UPDATE_SCHEDULE]: updateSchedule,
+});
